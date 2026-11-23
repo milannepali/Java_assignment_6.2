@@ -1,0 +1,18 @@
+
+.root {
+    -fx-font-family: "Arial";
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: lightblue;
+    -fx-padding: 10px;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+}
+
+.combo-box {
+    -fx-font-size: 14px;
+}
